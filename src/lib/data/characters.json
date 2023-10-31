@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Aether",
+    "icon": "/assets/characters/aether.png",
+    "id": "aether"
+  },
+  {
+    "name": "Albedo",
+    "icon": "/assets/characters/albedo.png",
+    "id": "albedo"
+  },
+  {
+    "name": "Alhaitham",
+    "icon": "/assets/characters/alhaitham.png",
+    "id": "alhaitham"
+  },
+  {
+    "name": "Aloy",
+    "icon": "/assets/characters/aloy.png",
+    "id": "aloy"
+  },
+  {
+    "name": "Amber",
+    "icon": "/assets/characters/amber.png",
+    "id": "amber"
+  },
+  {
+    "name": "Arataki Itto",
+    "icon": "/assets/characters/arataki_itto.png",
+    "id": "arataki_itto"
+  },
+  {
+    "name": "Baizhu",
+    "icon": "/assets/characters/baizhu.png",
+    "id": "baizhu"
+  },
+  {
+    "name": "Barbara",
+    "icon": "/assets/characters/barbara.png",
+    "id": "barbara"
+  },
+  {
+    "name": "Beidou",
+    "icon": "/assets/characters/beidou.png",
+    "id": "beidou"
+  },
+  {
+    "name": "Bennett",
+    "icon": "/assets/characters/bennett.png",
+    "id": "bennett"
+  },
+  {
+    "name": "Candace",
+    "icon": "/assets/characters/candace.png",
+    "id": "candace"
+  },
+  {
+    "name": "Chongyun",
+    "icon": "/assets/characters/chongyun.png",
+    "id": "chongyun"
+  },
+  {
+    "name": "Collei",
+    "icon": "/assets/characters/collei.png",
+    "id": "collei"
+  },
+  {
+    "name": "Cyno",
+    "icon": "/assets/characters/cyno.png",
+    "id": "cyno"
+  },
+  {
+    "name": "Dehya",
+    "icon": "/assets/characters/dehya.png",
+    "id": "dehya"
+  },
+  {
+    "name": "Diluc",
+    "icon": "/assets/characters/diluc.png",
+    "id": "diluc"
+  },
+  {
+    "name": "Diona",
+    "icon": "/assets/characters/diona.png",
+    "id": "diona"
+  },
+  {
+    "name": "Dori",
+    "icon": "/assets/characters/dori.png",
+    "id": "dori"
+  },
+  {
+    "name": "Eula",
+    "icon": "/assets/characters/eula.png",
+    "id": "eula"
+  },
+  {
+    "name": "Faruzan",
+    "icon": "/assets/characters/faruzan.png",
+    "id": "faruzan"
+  },
+  {
+    "name": "Fischl",
+    "icon": "/assets/characters/fischl.png",
+    "id": "fischl"
+  },
+  {
+    "name": "Freminet",
+    "icon": "/assets/characters/freminet.png",
+    "id": "freminet"
+  },
+  {
+    "name": "Ganyu",
+    "icon": "/assets/characters/ganyu.png",
+    "id": "ganyu"
+  },
+  {
+    "name": "Gorou",
+    "icon": "/assets/characters/gorou.png",
+    "id": "gorou"
+  },
+  {
+    "name": "Hu Tao",
+    "icon": "/assets/characters/hu_tao.png",
+    "id": "hu_tao"
+  },
+  {
+    "name": "Jean",
+    "icon": "/assets/characters/jean.png",
+    "id": "jean"
+  },
+  {
+    "name": "Kaedehara Kazuha",
+    "icon": "/assets/characters/kaedehara_kazuha.png",
+    "id": "kaedehara_kazuha"
+  },
+  {
+    "name": "Kaeya",
+    "icon": "/assets/characters/kaeya.png",
+    "id": "kaeya"
+  },
+  {
+    "name": "Kamisato Ayaka",
+    "icon": "/assets/characters/kamisato_ayaka.png",
+    "id": "kamisato_ayaka"
+  },
+  {
+    "name": "Kamisato Ayato",
+    "icon": "/assets/characters/kamisato_ayato.png",
+    "id": "kamisato_ayato"
+  },
+  {
+    "name": "Kaveh",
+    "icon": "/assets/characters/kaveh.png",
+    "id": "kaveh"
+  },
+  {
+    "name": "Keqing",
+    "icon": "/assets/characters/keqing.png",
+    "id": "keqing"
+  },
+  {
+    "name": "Kirara",
+    "icon": "/assets/characters/kirara.png",
+    "id": "kirara"
+  },
+  {
+    "name": "Klee",
+    "icon": "/assets/characters/klee.png",
+    "id": "klee"
+  },
+  {
+    "name": "Kujou Sara",
+    "icon": "/assets/characters/kujou_sara.png",
+    "id": "kujou_sara"
+  },
+  {
+    "name": "Kuki Shinobu",
+    "icon": "/assets/characters/kuki_shinobu.png",
+    "id": "kuki_shinobu"
+  },
+  {
+    "name": "Layla",
+    "icon": "/assets/characters/layla.png",
+    "id": "layla"
+  },
+  {
+    "name": "Lisa",
+    "icon": "/assets/characters/lisa.png",
+    "id": "lisa"
+  },
+  {
+    "name": "Lumine",
+    "icon": "/assets/characters/lumine.png",
+    "id": "lumine"
+  },
+  {
+    "name": "Lynette",
+    "icon": "/assets/characters/lynette.png",
+    "id": "lynette"
+  },
+  {
+    "name": "Lyney",
+    "icon": "/assets/characters/lyney.png",
+    "id": "lyney"
+  },
+  {
+    "name": "Mika",
+    "icon": "/assets/characters/mika.png",
+    "id": "mika"
+  },
+  {
+    "name": "Mona",
+    "icon": "/assets/characters/mona.png",
+    "id": "mona"
+  },
+  {
+    "name": "Nahida",
+    "icon": "/assets/characters/nahida.png",
+    "id": "nahida"
+  },
+  {
+    "name": "Nilou",
+    "icon": "/assets/characters/nilou.png",
+    "id": "nilou"
+  },
+  {
+    "name": "Ningguang",
+    "icon": "/assets/characters/ningguang.png",
+    "id": "ningguang"
+  },
+  {
+    "name": "Noelle",
+    "icon": "/assets/characters/noelle.png",
+    "id": "noelle"
+  },
+  {
+    "name": "Qiqi",
+    "icon": "/assets/characters/qiqi.png",
+    "id": "qiqi"
+  },
+  {
+    "name": "Raiden Shogun",
+    "icon": "/assets/characters/raiden_shogun.png",
+    "id": "raiden_shogun"
+  },
+  {
+    "name": "Razor",
+    "icon": "/assets/characters/razor.png",
+    "id": "razor"
+  },
+  {
+    "name": "Rosaria",
+    "icon": "/assets/characters/rosaria.png",
+    "id": "rosaria"
+  },
+  {
+    "name": "Sangonomiya Kokomi",
+    "icon": "/assets/characters/sangonomiya_kokomi.png",
+    "id": "sangonomiya_kokomi"
+  },
+  {
+    "name": "Sayu",
+    "icon": "/assets/characters/sayu.png",
+    "id": "sayu"
+  },
+  {
+    "name": "Shenhe",
+    "icon": "/assets/characters/shenhe.png",
+    "id": "shenhe"
+  },
+  {
+    "name": "Shikanoin Heizou",
+    "icon": "/assets/characters/shikanoin_heizou.png",
+    "id": "shikanoin_heizou"
+  },
+  {
+    "name": "Sucrose",
+    "icon": "/assets/characters/sucrose.png",
+    "id": "sucrose"
+  },
+  {
+    "name": "Tartaglia",
+    "icon": "/assets/characters/tartaglia.png",
+    "id": "tartaglia"
+  },
+  {
+    "name": "Thoma",
+    "icon": "/assets/characters/thoma.png",
+    "id": "thoma"
+  },
+  {
+    "name": "Tighnari",
+    "icon": "/assets/characters/tighnari.png",
+    "id": "tighnari"
+  },
+  {
+    "name": "Venti",
+    "icon": "/assets/characters/venti.png",
+    "id": "venti"
+  },
+  {
+    "name": "Wanderer",
+    "icon": "/assets/characters/wanderer.png",
+    "id": "wanderer"
+  },
+  {
+    "name": "Xiangling",
+    "icon": "/assets/characters/xiangling.png",
+    "id": "xiangling"
+  },
+  {
+    "name": "Xiao",
+    "icon": "/assets/characters/xiao.png",
+    "id": "xiao"
+  },
+  {
+    "name": "Xingqiu",
+    "icon": "/assets/characters/xingqiu.png",
+    "id": "xingqiu"
+  },
+  {
+    "name": "Xinyan",
+    "icon": "/assets/characters/xinyan.png",
+    "id": "xinyan"
+  },
+  {
+    "name": "Yae Miko",
+    "icon": "/assets/characters/yae_miko.png",
+    "id": "yae_miko"
+  },
+  {
+    "name": "Yanfei",
+    "icon": "/assets/characters/yanfei.png",
+    "id": "yanfei"
+  },
+  {
+    "name": "Yaoyao",
+    "icon": "/assets/characters/yaoyao.png",
+    "id": "yaoyao"
+  },
+  {
+    "name": "Yelan",
+    "icon": "/assets/characters/yelan.png",
+    "id": "yelan"
+  },
+  {
+    "name": "Yoimiya",
+    "icon": "/assets/characters/yoimiya.png",
+    "id": "yoimiya"
+  },
+  {
+    "name": "Yun Jin",
+    "icon": "/assets/characters/yun_jin.png",
+    "id": "yun_jin"
+  },
+  {
+    "name": "Zhongli",
+    "icon": "/assets/characters/zhongli.png",
+    "id": "zhongli"
+  }
+]
